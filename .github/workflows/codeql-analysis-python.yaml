@@ -17,4 +17,4 @@ jobs:
       contents: read
       security-events: write
     name: codeql
-    uses: aps831/workflows/.github/workflows/codeql-analysis-python.yaml@feat/codeql
+    uses: aps831/workflows/.github/workflows/codeql-analysis-python.yaml@master
