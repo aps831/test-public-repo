@@ -1,4 +1,4 @@
-name: "CodeQL"
+name: "CodeQL - Javascript"
 on:
   workflow_dispatch:
   pull_request: {}
