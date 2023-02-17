@@ -14,4 +14,4 @@ jobs:
       security-events: write
       id-token: write
     name: Scorecards analysis
-    uses: aps831/workflows/.github/workflows/scorecards.yaml@feat/openssf
+    uses: aps831/workflows/.github/workflows/scorecards.yaml@master
