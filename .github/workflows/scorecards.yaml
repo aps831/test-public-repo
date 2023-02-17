@@ -4,7 +4,4 @@ on:
 jobs:
   analysis:
     name: Scorecards analysis
-    runs-on: ubuntu-latest
-    steps:
-      - name: scorecards
-        uses: aps831/workflows/.github/workflows/scorecards.yaml@feat/openssf
+    uses: aps831/workflows/.github/workflows/scorecards.yaml@feat/openssf
